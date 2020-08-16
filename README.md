@@ -1,4 +1,4 @@
-# Database and a client interface for an Art Gallery, using PSQL, Python and psycopg2.
+# Database and a client interface for an Art Gallery, using PSQL, Python and psycopg2
 Made as a study project for my Databases class at Vilnius University.
 Goal of the project was to put theoretical knowledge into practice by making your own database from scratch.
 
